@@ -30,7 +30,7 @@ Bem-vindo ao repositório **Workshop C**! Este repositório contém uma série d
 
 ## Executar o Código
 
-Recomendo usar o [replit](replit.com) para executar o codigo devido a sua inteface simples e boas ferramentas de cooperacao.
+Recomendo usar o [replit](https://www.replit.com) para executar o codigo devido a sua inteface simples e boas ferramentas de cooperacao.
 
 Caso nao queiram criar uma conta no replit podem usar algo como o [programiz](https://www.programiz.com/c-programming/online-compiler/).
 
