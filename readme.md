@@ -4,7 +4,7 @@ Bem-vindo ao repositório **Workshop C**! Este repositório contém uma série d
 
 ## Índice
 
-1. [Olá, Mundo!](portugues/1_ola_mundo)  
+1. [Olá, Mundo!](portugues/1_ola_mundo.md)  
    Aprenda a escrever seu primeiro programa em C e entenda a estrutura básica de um programa.
 
 2. [Variáveis e Tipos](portugues/2_variaveis_e_tipos.md)  
